@@ -61,7 +61,7 @@ Or use command line tools (javac, java)
 
 Clone the repository:
 
-git clone https://github.com/yallakoushal/simple-chatbot-java.git
+git clone https://github.com/yallakoushal/simple-chatbot-app.git
 cd simple-chatbot-java
 <img width="1091" height="756" alt="image" src="https://github.com/user-attachments/assets/5c7c28af-7ae7-4544-987c-21d62e3b58e3" />
 
